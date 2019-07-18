@@ -7,6 +7,5 @@ sub_heading: Lorem Ipsums dolor impar
 thumbnail: ''
 email: ''
 linkedin: ''
-published: false
 
 ---
